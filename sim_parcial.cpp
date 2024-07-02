@@ -143,8 +143,6 @@ void loadFromfile(Container &CustomerList)
                 string field;
                 int code;
 
-                Customer nuevoEmpleado;
-
                 // Leer el código
                 getline(ss, field, ',');
                 code = stoi(field);
