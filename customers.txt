@@ -1,0 +1,6 @@
+100,Juan Augusto Perez Apablaza,San carlos de bariloche,
+101,Horacio Hornamenta,Lobos,
+102,Salma Romero,Soledad,
+103,Carlos Maidana,Jerusalen,
+104,Federico,Bahia Blanca,
+105,Dario Roberto,Azul,
